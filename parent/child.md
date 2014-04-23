@@ -1,4 +1,4 @@
-## <a name="section1">section1</a>
+<h2 name="section1">section1</h2>
 
 なんたらかんたら。
 
