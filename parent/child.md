@@ -1,9 +1,36 @@
-<h2 name="section1">section1</h2>
+<a name="heading1"/> Heading 1
 
-なんたらかんたら。
 
-## <a name="section2"> セクション2</a>
 
-なんたらかんたら。
 
-詳細は [セクション1](#section1) を参照。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[link to heading 1](#wiki-heading1)
