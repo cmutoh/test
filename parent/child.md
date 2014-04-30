@@ -1,6 +1,6 @@
 # infoScoop Documents
 
-infoscoop-documents is a documentation project for [infoScoop][infoscoop-github-project].
+infoscoop-documents is a documentation project for [infoScoop][infoscoop-github-project]. For more information, please visit [infoScoop OpenSource][infoscoop-oss-website] website.
 
 ## Contributing
 This documentation will be improved by your help. Anyone can contribute with a pull request. If you find any better way or untranslated parts, please submit your proposal as pull request. Your cooperation would be greatly appreciated!
@@ -18,6 +18,7 @@ Please follow the writing rules below when you work on changing the documents.
 
 
 [infoscoop-github-project]: https://github.com/infoScoop/infoscoop "infoScoop/infoscoop - GitHub"
+[infoscoop-oss-website]: http://www.infoscoop.org/ "infoScoop OpenSource website"
 [writing-rule-en]: en/writing-rules.md "Writing Rules (English)"
 [writing-rule-ja]: ja/writing-rules.md "Writing Rules (Japanese)"
 [writing-rule-zh]: zh/writing-rules.md "Writing Rules (Chinese)"
